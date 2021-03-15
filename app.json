@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "BoltCart",
+    "slug": "Shopy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/shopping-basket.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.food",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.Shopy",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
